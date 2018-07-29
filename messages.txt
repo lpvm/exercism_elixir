@@ -1,0 +1,19 @@
+"Tom-ay-to, tom-aaaah-to."                      == "Whatever."
+"Ending with ? means a question."               == "Whatever."
+
+"WATCH OUT!"                                    == "Whoa, chill out!"
+"This Isn't Shouting!"                          == "Whatever."
+"Let's go make out behind the gym!"             == "Whatever."
+"1, 2, 3 GO!"                                   == "Whoa, chill out!"
+"ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!" == "Whoa, chill out!"
+"I HATE YOU"                                    == "Whoa, chill out!"
+
+"Does this cryogenic chamber make me look fat?" == "Sure."
+"THIS ISN'T SHOUTING?"                          == "Calm down, I know what I'm doing!"
+"4?"                                            == "Sure."
+
+
+"УХОДИ"                                         == "Whoa, chill out!"
+"1, 2, 3"                                       == "Whatever."
+""                                              == "Fine. Be that way!"
+"  "                                            == "Fine. Be that way!"

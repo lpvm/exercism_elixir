@@ -7,3 +7,9 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+elixir_tips.txt
+uteis.txt
+fossil_credentials.txt
+.fossil-settings/
+.fslckout
+
