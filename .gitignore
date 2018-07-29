@@ -12,4 +12,5 @@ uteis.txt
 fossil_credentials.txt
 .fossil-settings/
 .fslckout
+*/.solution.json
 
